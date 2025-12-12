@@ -4,7 +4,7 @@ Bu proje işletim sistemleri dersi kapsamında geliştirdiğim CPU zamanlama alg
 
 Uygulama, farklı senaryoları test etmek için **FCFS, SJF, Round Robin ve diğer** temel algoritmaları kullanır ve performans metriklerini karşılaştırır.
 
-##Bu projeyi aşağıdaki Streamlit uygulamasıyla interaktif olarak incelemeniz tavsiye edilir.Orada denemeler yaptıktan sonra bu Readme dosyasının en altında bazı yorum ve çıkarımlara ulaşabilirsiniz.
+## Bu projeyi aşağıdaki Streamlit uygulamasıyla interaktif olarak incelemeniz tavsiye edilir.Orada denemeler yaptıktan sonra bu Readme dosyasının en altında bazı yorum ve çıkarımlara ulaşabilirsiniz.
 Projeyi hiçbir kurulum yapmadan tarayıcınız üzerinden test edebilirsiniz:
 👉 **[UYGULAMAYA GİT !](https://cpu-zamanlama-simulator.streamlit.app/)**
 ---
